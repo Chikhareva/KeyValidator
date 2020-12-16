@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [ISSUE 1} (https://github.com/Chikhareva/KeyValidator/issues/1)
+* [ISSUE 1] (https://github.com/Chikhareva/KeyValidator/issues/1)
 * [Issue 2] (https://github.com/Chikhareva/KeyValidator/issues/2)
 
 
