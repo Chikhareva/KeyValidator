@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/Chikhareva/KeyValidator/issues/1
-* https://github.com/Chikhareva/KeyValidator/issues/2
+* [Тестирование валидных ключей](https://github.com/Chikhareva/KeyValidator/issues/1)
+* [Тестирование не валидных ключей](https://github.com/Chikhareva/KeyValidator/issues/2)
 
 
 ## Описание процесса тестирования ##
@@ -41,3 +41,4 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42
 * openjdk version "11.0.9.1" 2020-11-04
 * OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 * OpenJDK Client VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
+
